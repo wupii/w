@@ -1,4 +1,19 @@
-
+/* Copyright (C) 2022 Jack @Melonturtle_ and Max @sigmacw_ 
+ *
+ * You may not distribute this code without obtaining explicit permission
+ * from Jack @Melonturtle_ or Max @sigmacw_. 
+ * 
+ * Note that should you modify this code, no technical support shall be provided
+ * that pertains to the modified parts.
+ *
+ * P.S. To clarify, the above doesn't apply to **actual** bugs. If you found
+ *      a problem and are confident enough to fix it, by all means go ahead.
+ *      Just remember that in case you decide to add/remove functionality
+ *      and/or alter the layout and appearance of the chat (or anything else
+ *      that is not simply fixing an issue), and you break something, no
+ *      assistance will be provided. Thank you.
+ *
+ * All rights reserved
  */
 
 // Defining useful global variables
